@@ -2,7 +2,7 @@
 **This a project to implement and train a  Deep Rl Agent to solve maze using Double deep q net.**
 
 
-![](Gifs\test.gif)            
+![](https://github.com/mohame54/MazeSolever/blob/main/Gifs/test.gif)            
 
 
 ![](Gifs\test2.gif)
