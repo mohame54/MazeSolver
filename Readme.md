@@ -27,7 +27,7 @@
 *This ***command*** will train the agent for 15 Episodes with saving the best net weights during training*
 
 
-*The code below shows  how to train your agent after optimizing the config file ***config.json*** from ***config.py*** file or leave the default params*
+*The code below shows  how to train your agent after optimizing the config file ***config.json*** from ***config.py***  as you want or leave the default parameters*
 ```python
 from Maze import *
 from MazeSolver import *
