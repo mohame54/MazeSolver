@@ -24,7 +24,7 @@
 *For ***example :**** 
 > python train.py --Episodes 15 --save_best_net True --path_net <your_path>
 
-*This ***command*** will train the agent for 15 Episodes with saving the best net weights during training*
+*This ***command*** will train the agent for 15 Episodes with saving the best net weights during training specifying the path you want*
 
 
 *The code below shows  how to train your agent after optimizing the config file ***config.json*** from ***config.py***  as you want or leave the default parameters*
