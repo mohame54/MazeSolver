@@ -8,7 +8,7 @@
 ![](https://github.com/mohame54/MazeSolever/blob/main/Gifs/test2.gif)
 
 
-#contents:
+#***Content***:
 
 1-***Objective and Goal***
 
