@@ -5,7 +5,7 @@
 ![](https://github.com/mohame54/MazeSolever/blob/main/Gifs/test.gif)            
 
 
-![](Gifs\test2.gif)
+![](https://github.com/mohame54/MazeSolever/blob/main/Gifs/test2.gif)
 
 
 #contents:
