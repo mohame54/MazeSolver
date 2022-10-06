@@ -10,10 +10,8 @@
 
 #contents:
 
--***Objective and Goal***
-
-
--***How to train our own Agent***
+1-***Objective and Goal***
+2-***How to train our own Agent***
 
 #objective and Goal :
 *My goal here is to make an agent or a model that can start from **any valid position** in the grid maze and find the terminal or the goal point ***Marked with gray in the above grids*** the designed maze is flexible meaning we can change the start and  goal position ***whenever*** we want and let the agent find the best route to reach ***goal*** taking the least number of steps even we changed start and end position after training the agent would still try to find the best route without any additional training .*
@@ -25,7 +23,7 @@
 *For ***example :**** 
 > python train.py --Episodes 15 save_net True
 
-*This ***command*** will train the agent for 15 Episodes and saving the best net during weights*
+*This ***command*** will train the agent for 15 Episodes with saving the best net weights during training*
 
 
 *The code below shows  how to train your agent after optimizing the config file ***config.json*** from ***config.py*** file or leave the default params*
