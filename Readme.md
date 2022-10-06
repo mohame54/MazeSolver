@@ -22,7 +22,7 @@
 > python train.py -h   **To show the available command**
 
 *For ***example :**** 
-> python train.py --Episodes 15 save_net True
+> python train.py --Episodes 15 --save_net True --path_net <your_path>
 
 *This ***command*** will train the agent for 15 Episodes with saving the best net weights during training*
 
