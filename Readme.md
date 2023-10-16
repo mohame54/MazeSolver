@@ -15,7 +15,7 @@
 
 2- ***How to train our own Agent***
 
-#objective and Goal:
+## objective and Goal:
 *My goal here is to make an agent or a model that can start from **any valid position** in the grid maze and find the terminal or the goal point ***Marked with gray in the above grids*** the designed maze is flexible meaning we can change the start and  goal position ***whenever*** we want and let the agent find the best route to reach ***goal*** taking the least number of steps even we changed start and end position after training the agent would still try to find the best route without any additional training .*
 
 ## How to train your agent :
